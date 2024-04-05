@@ -1,0 +1,18 @@
+body{
+    padding: 10% 20% ;
+    font-family: sans-serif;
+    font-size: 25px;
+    background-color: #c5c5c5;
+}
+
+.paratt{
+    text-align: right;
+}
+
+.text{
+    text-indent: 70px;
+}
+
+.title{
+    text-align: center;
+}
